@@ -13,5 +13,43 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\P1">
+      <UniqueIdentifier>{c4e43b83-c640-4475-8d46-df722d9503a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\P2">
+      <UniqueIdentifier>{226ad703-1423-48f2-8bd7-292264ed2966}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1_全局区.cpp">
+      <Filter>源文件\P1</Filter>
+    </ClCompile>
+    <ClCompile Include="2_1_栈区.cpp">
+      <Filter>源文件\P1</Filter>
+    </ClCompile>
+    <ClCompile Include="2_2_堆区.cpp">
+      <Filter>源文件\P1</Filter>
+    </ClCompile>
+    <ClCompile Include="3_new操作符.cpp">
+      <Filter>源文件\P1</Filter>
+    </ClCompile>
+    <ClCompile Include="1_引用语法.cpp">
+      <Filter>源文件\P2</Filter>
+    </ClCompile>
+    <ClCompile Include="2_引用注意事项.cpp">
+      <Filter>源文件\P2</Filter>
+    </ClCompile>
+    <ClCompile Include="P2\3_引用做函数参数cpp.cpp">
+      <Filter>源文件\P2</Filter>
+    </ClCompile>
+    <ClCompile Include="P2\4_引用做函数返回值.cpp">
+      <Filter>源文件\P2</Filter>
+    </ClCompile>
+    <ClCompile Include="P2\5_引用的本质.cpp">
+      <Filter>源文件\P2</Filter>
+    </ClCompile>
+    <ClCompile Include="P2\6_常量引用.cpp">
+      <Filter>源文件\P2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
