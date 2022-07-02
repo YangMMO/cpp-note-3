@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+/* 全局区 */
+// 全局变量、静态变量、常量
+
 // 全局变量，没有写入函数体的变量
 int g_a = 10;
 int g_b = 10;
@@ -10,8 +13,6 @@ const int c_g_b = 10;
 
 int main()
 {
-    /* 全局区 */
-    // 全局变量、静态变量、常量
 
     // 创建普通的局部变量
     int a = 10;

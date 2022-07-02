@@ -19,6 +19,9 @@
     <Filter Include="源文件\P2">
       <UniqueIdentifier>{226ad703-1423-48f2-8bd7-292264ed2966}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\P3">
+      <UniqueIdentifier>{6786d094-6186-4d56-a0d2-d78eaa35fde1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P2\3_引用做函数参数cpp.cpp">
@@ -50,6 +53,9 @@
     </ClCompile>
     <ClCompile Include="P1\1_全局区.cpp">
       <Filter>源文件\P1</Filter>
+    </ClCompile>
+    <ClCompile Include="P3\1_函数默认参数cpp.cpp">
+      <Filter>源文件\P3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
