@@ -22,6 +22,9 @@
     <Filter Include="源文件\P3">
       <UniqueIdentifier>{6786d094-6186-4d56-a0d2-d78eaa35fde1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\P4">
+      <UniqueIdentifier>{98381388-3a65-4859-b54b-8afb37cbb017}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P2\3_引用做函数参数cpp.cpp">
@@ -66,5 +69,43 @@
     <ClCompile Include="P3\3_2_函数重载注意事项.cpp">
       <Filter>源文件\P3</Filter>
     </ClCompile>
+    <ClCompile Include="P4\1_1_1_封装意义一.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\1_1_2_封装意义一.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\1_2_封装意义二.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\1_3_struct和class区别.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\1_4_成员属性设置为私有.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\1_5_练习案例1.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\1_6_练习案例2.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\point.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\circle.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\2_构造函数和析构函数.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="P4\point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="P4\circle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
