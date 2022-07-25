@@ -96,7 +96,13 @@
     <ClCompile Include="P4\circle.cpp">
       <Filter>源文件\P4</Filter>
     </ClCompile>
-    <ClCompile Include="P4\2_构造函数和析构函数.cpp">
+    <ClCompile Include="P4\2_1_构造函数和析构函数.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\2_2_构造函数的分类及调用.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\2_3_拷贝构造函数调用时机.cpp">
       <Filter>源文件\P4</Filter>
     </ClCompile>
   </ItemGroup>
