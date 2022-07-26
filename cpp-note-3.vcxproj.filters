@@ -105,6 +105,15 @@
     <ClCompile Include="P4\2_3_拷贝构造函数调用时机.cpp">
       <Filter>源文件\P4</Filter>
     </ClCompile>
+    <ClCompile Include="P4\2_4_构造函数调用规则.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\2_5_深拷贝与浅拷贝.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\2_6_初始化列表.cpp">
+      <Filter>源文件\P4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="P4\point.h">
