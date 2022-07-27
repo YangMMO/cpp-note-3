@@ -205,7 +205,22 @@
     <ClCompile Include="P4\2_5_深拷贝与浅拷贝.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="P4\2_6_初始化列表.cpp" />
+    <ClCompile Include="P4\2_6_初始化列表.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="P4\2_7_类对象作为类成员.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="P4\2_8_1_静态成员变量.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="P4\2_8_2_静态成员函数.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="P4\3_1_成员变量和成员函数分开存储.cpp" />
+    <ClCompile Include="P4\3_2_this指针概念.cpp" />
+    <ClCompile Include="P4\3_3_空指针访问成员函数.cpp" />
+    <ClCompile Include="P4\3_4_const修饰成员函数.cpp" />
     <ClCompile Include="P4\circle.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
