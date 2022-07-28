@@ -34,6 +34,18 @@
     <Filter Include="源文件\P4\3">
       <UniqueIdentifier>{1256ecef-6bb7-4f9e-8d3d-6a64b268ae98}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\P4\4">
+      <UniqueIdentifier>{c462aa5e-ffeb-4b27-9fba-45551dce9e62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\P4\5">
+      <UniqueIdentifier>{fe4f372c-7050-4a31-b55a-e5a207d75de8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\P4\6">
+      <UniqueIdentifier>{325c39b4-0cf6-4e6c-8523-bce2cd289721}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\P4\7">
+      <UniqueIdentifier>{3139dbaf-51cd-49c3-bf32-cede39ea80c2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P2\3_引用做函数参数cpp.cpp">
@@ -144,6 +156,18 @@
     <ClCompile Include="P4\point.cpp">
       <Filter>源文件\P4\1</Filter>
     </ClCompile>
+    <ClCompile Include="P4\4_1_全局函数做友元.cpp">
+      <Filter>源文件\P4\4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\4_2_类做友元.cpp">
+      <Filter>源文件\P4\4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\4_3_成员函数做友元.cpp">
+      <Filter>源文件\P4\4</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\5_1_加号运算符重载.cpp">
+      <Filter>源文件\P4\5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="P4\point.h">
@@ -152,5 +176,8 @@
     <ClInclude Include="P4\circle.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>
