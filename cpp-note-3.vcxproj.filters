@@ -168,6 +168,21 @@
     <ClCompile Include="P4\5_1_加号运算符重载.cpp">
       <Filter>源文件\P4\5</Filter>
     </ClCompile>
+    <ClCompile Include="P4\5_2_左移运算符重载.cpp">
+      <Filter>源文件\P4\5</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\5_3_递增运算符重载.cpp">
+      <Filter>源文件\P4\5</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\5_4_赋值运算符重载.cpp">
+      <Filter>源文件\P4\5</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\5_5_关系运算符重载.cpp">
+      <Filter>源文件\P4\5</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\5_6_函数调用运算符重载.cpp">
+      <Filter>源文件\P4\5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="P4\point.h">
