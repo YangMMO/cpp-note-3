@@ -218,6 +218,7 @@
     <ClCompile Include="P4\2_8_2_静态成员函数.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="P4\7_3_纯虚函数和抽象类.cpp" />
     <ClCompile Include="P4\3_1_成员变量和成员函数分开存储.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -230,6 +231,7 @@
     <ClCompile Include="P4\3_4_const修饰成员函数.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="P4\7_4_多态案例二-制作饮品.cpp" />
     <ClCompile Include="P4\4_1_全局函数做友元.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -239,6 +241,7 @@
     <ClCompile Include="P4\4_3_成员函数做友元.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="P4\7_5_虚析构和纯虚析构.cpp" />
     <ClCompile Include="P4\5_1_加号运算符重载.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -249,6 +252,7 @@
     <ClCompile Include="P4\6_6_继承同名静态成员处理方式.cpp" />
     <ClCompile Include="P4\6_7_多继承语法.cpp" />
     <ClCompile Include="P4\6_8_菱形继承.cpp" />
+    <ClCompile Include="P4\7_1_多态的基本概念.cpp" />
     <ClCompile Include="P4\circle.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -271,6 +275,12 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="P4\6_1_继承的基本语法.cpp" />
+    <ClCompile Include="P4\7_2_多态案例一-计算器类.cpp" />
+    <ClCompile Include="P4\7_6_多态案例三-电脑组装.cpp" />
+    <ClCompile Include="P5\1_1_写文件.cpp" />
+    <ClCompile Include="P5\1_2_读文件.cpp" />
+    <ClCompile Include="P5\2_1_写文件.cpp" />
+    <ClCompile Include="P5\2_2_读文件.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="P4\circle.h" />

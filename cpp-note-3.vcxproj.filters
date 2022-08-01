@@ -46,6 +46,15 @@
     <Filter Include="源文件\P4\7">
       <UniqueIdentifier>{3139dbaf-51cd-49c3-bf32-cede39ea80c2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\P5">
+      <UniqueIdentifier>{fb76cc2b-40ca-4c30-80a0-1fedfb5f726e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\P5\1">
+      <UniqueIdentifier>{10d043e0-9fe5-4d23-b247-c65a131aa156}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\P5\2">
+      <UniqueIdentifier>{31af94a5-1739-4a80-8122-bb397c280922}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P2\3_引用做函数参数cpp.cpp">
@@ -206,6 +215,36 @@
     </ClCompile>
     <ClCompile Include="P4\6_8_菱形继承.cpp">
       <Filter>源文件\P4\6</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\7_1_多态的基本概念.cpp">
+      <Filter>源文件\P4\7</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\7_2_多态案例一-计算器类.cpp">
+      <Filter>源文件\P4\7</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\7_6_多态案例三-电脑组装.cpp">
+      <Filter>源文件\P4\7</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\7_3_纯虚函数和抽象类.cpp">
+      <Filter>源文件\P4\7</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\7_4_多态案例二-制作饮品.cpp">
+      <Filter>源文件\P4\7</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\7_5_虚析构和纯虚析构.cpp">
+      <Filter>源文件\P4\7</Filter>
+    </ClCompile>
+    <ClCompile Include="P5\1_1_写文件.cpp">
+      <Filter>源文件\P5\1</Filter>
+    </ClCompile>
+    <ClCompile Include="P5\1_2_读文件.cpp">
+      <Filter>源文件\P5\1</Filter>
+    </ClCompile>
+    <ClCompile Include="P5\2_1_写文件.cpp">
+      <Filter>源文件\P5\2</Filter>
+    </ClCompile>
+    <ClCompile Include="P5\2_2_读文件.cpp">
+      <Filter>源文件\P5\2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
