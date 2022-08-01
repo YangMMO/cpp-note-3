@@ -183,6 +183,30 @@
     <ClCompile Include="P4\5_6_函数调用运算符重载.cpp">
       <Filter>源文件\P4\5</Filter>
     </ClCompile>
+    <ClCompile Include="P4\6_1_继承的基本语法.cpp">
+      <Filter>源文件\P4\6</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\6_2_继承方式.cpp">
+      <Filter>源文件\P4\6</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\6_3_继承中的对象模型.cpp">
+      <Filter>源文件\P4\6</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\6_4_继承中构造和析构顺序.cpp">
+      <Filter>源文件\P4\6</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\6_5_继承同名成员处理方式.cpp">
+      <Filter>源文件\P4\6</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\6_6_继承同名静态成员处理方式.cpp">
+      <Filter>源文件\P4\6</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\6_7_多继承语法.cpp">
+      <Filter>源文件\P4\6</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\6_8_菱形继承.cpp">
+      <Filter>源文件\P4\6</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="P4\point.h">

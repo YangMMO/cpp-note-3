@@ -242,6 +242,13 @@
     <ClCompile Include="P4\5_1_加号运算符重载.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="P4\6_2_继承方式.cpp" />
+    <ClCompile Include="P4\6_3_继承中的对象模型.cpp" />
+    <ClCompile Include="P4\6_4_继承中构造和析构顺序.cpp" />
+    <ClCompile Include="P4\6_5_继承同名成员处理方式.cpp" />
+    <ClCompile Include="P4\6_6_继承同名静态成员处理方式.cpp" />
+    <ClCompile Include="P4\6_7_多继承语法.cpp" />
+    <ClCompile Include="P4\6_8_菱形继承.cpp" />
     <ClCompile Include="P4\circle.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -251,7 +258,9 @@
     <ClCompile Include="P4\5_5_关系运算符重载.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="P4\5_6_函数调用运算符重载.cpp" />
+    <ClCompile Include="P4\5_6_函数调用运算符重载.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="P4\5_2_左移运算符重载.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -261,6 +270,7 @@
     <ClCompile Include="P4\5_3_递增运算符重载.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="P4\6_1_继承的基本语法.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="P4\circle.h" />
