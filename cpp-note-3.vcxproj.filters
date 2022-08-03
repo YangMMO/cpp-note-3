@@ -216,7 +216,7 @@
     <ClCompile Include="P4\6_8_菱形继承.cpp">
       <Filter>源文件\P4\6</Filter>
     </ClCompile>
-    <ClCompile Include="P4\7_1_多态的基本概念.cpp">
+    <ClCompile Include="P4\7_1_1多态的基本概念.cpp">
       <Filter>源文件\P4\7</Filter>
     </ClCompile>
     <ClCompile Include="P4\7_2_多态案例一-计算器类.cpp">
@@ -245,6 +245,9 @@
     </ClCompile>
     <ClCompile Include="P5\2_2_读文件.cpp">
       <Filter>源文件\P5\2</Filter>
+    </ClCompile>
+    <ClCompile Include="P4\7_1_2多态的基本概念.cpp">
+      <Filter>源文件\P4\7</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
