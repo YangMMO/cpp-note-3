@@ -221,7 +221,9 @@
     <ClCompile Include="P4\7_1_2多态的基本概念.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="P4\7_3_纯虚函数和抽象类.cpp" />
+    <ClCompile Include="P4\7_3_纯虚函数和抽象类.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="P4\3_1_成员变量和成员函数分开存储.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
