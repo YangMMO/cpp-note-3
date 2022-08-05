@@ -305,10 +305,18 @@
     <ClCompile Include="P4\7_2_多态案例一-计算器类.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="P4\7_6_多态案例三-电脑组装.cpp" />
-    <ClCompile Include="P5\1_1_写文件.cpp" />
-    <ClCompile Include="P5\1_2_读文件.cpp" />
-    <ClCompile Include="P5\2_1_写文件.cpp" />
+    <ClCompile Include="P4\7_6_多态案例三-电脑组装.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="P5\1_1_写文件.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="P5\1_2_读文件.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="P5\2_1_写文件.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="P5\2_2_读文件.cpp" />
   </ItemGroup>
   <ItemGroup>
